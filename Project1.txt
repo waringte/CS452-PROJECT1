@@ -4,4 +4,4 @@ Can have 2 people working on this assignment.
 Objectives:
 Scoring system.
 Win condition to the game.
-Player must move to score.
+Player must move arround to score.
