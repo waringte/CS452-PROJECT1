@@ -1,0 +1,7 @@
+Create a side scroller game.
+Can have 2 people working on this assignment.
+
+Objectives:
+Player must move.
+Scoring system.
+Win condition to the game.
