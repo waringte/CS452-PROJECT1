@@ -12,4 +12,3 @@ Examples:
 Pong
 Galaga
 Helicopter
-Bubble Tanks
