@@ -12,3 +12,20 @@ Examples:
 Pong
 Galaga
 Helicopter
+
+
+-----
+
+-You are create a side-scroller game.
+  -You may work on this project in groups of two, should you wish.
+
+Objectives:
+  -Use 2D polygons to make an interesting game
+  -This game should have a scoring system and win condition
+  -The player must interact with the game to score
+  -The game should last for roughly three minutes
+  
+Some Examples:
+  -Pong
+  -Galaga
+  -Helicoptor
