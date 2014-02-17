@@ -8,6 +8,5 @@ Objectives:
   -The game should last for roughly three minutes
   
 Some Examples:
-  -Pong
   -Galaga
   -Helicoptor
