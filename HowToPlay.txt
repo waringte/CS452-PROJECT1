@@ -1,0 +1,12 @@
+Controls:
+  Jump with spacebar
+  change your color with:
+    a - red
+    s - green
+    d - blue
+    
+How to Play:
+  Your character(cube) changes colors and moves along the platforms. You can't stay on a platform that's the same color
+  as you. You will begin moving towards walls of various colors. You can move through walls the same color as you but
+  if you hit a wall that's a different color you lose the game. If you can last for 3 minutes, you win.
+  Your score is output to the console.
