@@ -681,7 +681,7 @@ fprintf(stderr,"Unable to create window: %s\n", SDL_GetError());
      exit(1);
 }
 
-window = SDL_CreateWindow("Lighting",SDL_WINDOWPOS_UNDEFINED,SDL_WINDOWPOS_UNDEFINED,1000,500,SDL_WINDOW_OPENGL);
+window = SDL_CreateWindow("Project1",SDL_WINDOWPOS_UNDEFINED,SDL_WINDOWPOS_UNDEFINED,1000,500,SDL_WINDOW_OPENGL);
 
 if(window==NULL){
 fprintf(stderr,"Unable to create window: %s\n",SDL_GetError());
